@@ -13,7 +13,8 @@ docker start redisfasfeet
 cd mobile 
 yarn
 yarn start
-com o expo aberto podemos clicar no botao ao lado esquerdo Run on IOS simulator com o simulador 
+
+Com o expo aberto podemos clicar no botao ao lado esquerdo Run on IOS simulator com o simulador 
 aberto só autorizar o pedido de instalação do aplicativo. Podemos também rodar direto no device 
 baixando o aplicativo expo pela Appstore e ativando pelo qrcode através da câmera do próprio device,
 vai pedir autorização é só aceitar. Pelo device não podemos esquecer de trocar a url no backend pelo 
