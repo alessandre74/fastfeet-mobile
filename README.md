@@ -21,5 +21,4 @@ OBS: Mobile só testado no IOS, foi desenvolvido todo pelo react native cli, por
 tive muitos problemas para testar a câmera e para poder entregar o desafio completo, 
 por isso criei um novo projeto expo e transferi todo o projeto já feito porém com algumas 
 adaptações para funcionar.
-
 ```
